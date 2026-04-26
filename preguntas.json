@@ -8958,5 +8958,965 @@
     "correcta": "c",
     "dificultad": "difícil",
     "explicacion": "Los CFGB buscan facilitar la continuidad formativa, desarrollar competencias, obtener titulación y conectar el aprendizaje con un ámbito profesional."
+  },
+  {
+    "id": 1,
+    "bloque": "Teoría Pedagógica",
+    "tema": 1,
+    "titulo_tema": "Fundamentación psicológica y pedagógica del currículo. Aportaciones de la Psicología y Ciencias de la Educación al diseño curricular en sus distintos niveles",
+    "pregunta": "¿Qué finalidad debe orientar principalmente el diseño curricular en la enseñanza básica?",
+    "opciones": {
+      "a": "Garantizar una secuencia cerrada de contenidos idéntica para todos los centros.",
+      "b": "Favorecer el desarrollo integral del alumnado y la adquisición de competencias clave.",
+      "c": "Priorizar la memorización de saberes básicos para asegurar resultados homogéneos.",
+      "d": "Separar las decisiones metodológicas de las características evolutivas del alumnado."
+    },
+    "correcta": "b",
+    "dificultad": "fácil",
+    "explicacion": "Ejes temáticos principales identificados: fuentes psicológica y pedagógica del currículo; principios didácticos constructivistas; currículo LOE-LOMLOE y DUA; aportaciones de la Psicología y Ciencias de la Educación; niveles de concreción curricular y competencias clave. El currículo debe facilitar el desarrollo educativo integral y garantizar el progreso competencial del alumnado."
+  },
+  {
+    "id": 2,
+    "bloque": "Teoría Pedagógica",
+    "tema": 1,
+    "titulo_tema": "Fundamentación psicológica y pedagógica del currículo. Aportaciones de la Psicología y Ciencias de la Educación al diseño curricular en sus distintos niveles",
+    "pregunta": "¿Qué aporta la fuente psicológica al currículo?",
+    "opciones": {
+      "a": "Información sobre cómo aprende y se desarrolla el alumnado en cada momento evolutivo.",
+      "b": "Criterios administrativos para organizar documentos institucionales del centro.",
+      "c": "Experiencias históricas de innovación metodológica acumuladas por la escuela.",
+      "d": "Normas de funcionamiento interno para la coordinación de los equipos docentes."
+    },
+    "correcta": "a",
+    "dificultad": "fácil",
+    "explicacion": "La fuente psicológica ayuda a decidir qué, cuándo y cómo enseñar atendiendo al desarrollo, al aprendizaje y a los procesos cognitivos."
+  },
+  {
+    "id": 3,
+    "bloque": "Teoría Pedagógica",
+    "tema": 1,
+    "titulo_tema": "Fundamentación psicológica y pedagógica del currículo. Aportaciones de la Psicología y Ciencias de la Educación al diseño curricular en sus distintos niveles",
+    "pregunta": "¿Qué principio didáctico se aplica cuando el profesorado conecta un nuevo contenido con lo que el alumnado ya sabe?",
+    "opciones": {
+      "a": "Principio de evaluación externa.",
+      "b": "Principio de homogeneización curricular.",
+      "c": "Principio de aprendizaje significativo.",
+      "d": "Principio de selección normativa."
+    },
+    "correcta": "c",
+    "dificultad": "fácil",
+    "explicacion": "El aprendizaje significativo exige relacionar la nueva información con los conocimientos previos de manera relevante y comprensible."
+  },
+  {
+    "id": 4,
+    "bloque": "Teoría Pedagógica",
+    "tema": 1,
+    "titulo_tema": "Fundamentación psicológica y pedagógica del currículo. Aportaciones de la Psicología y Ciencias de la Educación al diseño curricular en sus distintos niveles",
+    "pregunta": "¿Qué papel cumple el Diseño Universal para el Aprendizaje en el currículo actual?",
+    "opciones": {
+      "a": "Establecer una única vía de acceso al aprendizaje para asegurar igualdad formal.",
+      "b": "Reservar las adaptaciones metodológicas al alumnado con dictamen de escolarización.",
+      "c": "Sustituir las competencias específicas por actividades comunes de aula.",
+      "d": "Orientar medidas organizativas, metodológicas y curriculares para reducir barreras."
+    },
+    "correcta": "d",
+    "dificultad": "fácil",
+    "explicacion": "El DUA busca anticipar barreras y ofrecer distintas formas de acceso, participación y expresión para todo el alumnado."
+  },
+  {
+    "id": 5,
+    "bloque": "Teoría Pedagógica",
+    "tema": 1,
+    "titulo_tema": "Fundamentación psicológica y pedagógica del currículo. Aportaciones de la Psicología y Ciencias de la Educación al diseño curricular en sus distintos niveles",
+    "pregunta": "Según la aportación de Vygotski al diseño curricular, ¿qué tipo de ayuda docente resulta más adecuada?",
+    "opciones": {
+      "a": "La que evita la interacción con iguales para comprobar el nivel real del alumno.",
+      "b": "La que se sitúa en la Zona de Desarrollo Próximo y permite avanzar con apoyo.",
+      "c": "La que exige tareas que el alumno ya domina sin necesidad de mediación.",
+      "d": "La que sustituye la actividad del alumnado por explicación directa del profesor."
+    },
+    "correcta": "b",
+    "dificultad": "media",
+    "explicacion": "La intervención educativa es más eficaz cuando ofrece ayudas ajustadas para que el alumno avance desde lo que puede hacer con apoyo hacia mayor autonomía."
+  },
+  {
+    "id": 6,
+    "bloque": "Teoría Pedagógica",
+    "tema": 1,
+    "titulo_tema": "Fundamentación psicológica y pedagógica del currículo. Aportaciones de la Psicología y Ciencias de la Educación al diseño curricular en sus distintos niveles",
+    "pregunta": "¿Qué aportación realiza la teoría del aprendizaje significativo de Ausubel al currículo?",
+    "opciones": {
+      "a": "Destaca la importancia de los conocimientos previos para construir nuevos aprendizajes.",
+      "b": "Defiende que el aprendizaje escolar depende principalmente de la repetición mecánica.",
+      "c": "Sustituye la mediación docente por descubrimiento espontáneo sin orientación.",
+      "d": "Prioriza la evaluación de conductas observables frente a la comprensión."
+    },
+    "correcta": "a",
+    "dificultad": "media",
+    "explicacion": "Ausubel subraya que el aprendizaje se construye cuando lo nuevo se vincula de forma no arbitraria con la estructura cognitiva previa."
+  },
+  {
+    "id": 7,
+    "bloque": "Teoría Pedagógica",
+    "tema": 1,
+    "titulo_tema": "Fundamentación psicológica y pedagógica del currículo. Aportaciones de la Psicología y Ciencias de la Educación al diseño curricular en sus distintos niveles",
+    "pregunta": "¿Qué aportación de las Ciencias de la Educación ha influido especialmente en el currículo actual?",
+    "opciones": {
+      "a": "La organización rígida de contenidos cerrados para todos los centros.",
+      "b": "La reducción de la función docente a transmisión de información.",
+      "c": "La construcción de una educación individualizada, activa e inclusiva.",
+      "d": "La separación entre tutoría, orientación y desarrollo curricular."
+    },
+    "correcta": "c",
+    "dificultad": "media",
+    "explicacion": "Las Ciencias de la Educación han impulsado metodologías activas, evaluación continua, tutoría, orientación y atención a la diversidad."
+  },
+  {
+    "id": 8,
+    "bloque": "Teoría Pedagógica",
+    "tema": 1,
+    "titulo_tema": "Fundamentación psicológica y pedagógica del currículo. Aportaciones de la Psicología y Ciencias de la Educación al diseño curricular en sus distintos niveles",
+    "pregunta": "¿Qué caracteriza al segundo nivel de concreción curricular?",
+    "opciones": {
+      "a": "La elaboración estatal de enseñanzas mínimas comunes.",
+      "b": "La programación específica de cada área o materia por el equipo docente.",
+      "c": "La evaluación individual del alumnado mediante criterios comunes.",
+      "d": "La adaptación del currículo al contexto del centro mediante el Proyecto Educativo."
+    },
+    "correcta": "d",
+    "dificultad": "media",
+    "explicacion": "El segundo nivel concreta el marco curricular en función de la realidad del centro, sus características y sus decisiones pedagógicas."
+  },
+  {
+    "id": 9,
+    "bloque": "Teoría Pedagógica",
+    "tema": 1,
+    "titulo_tema": "Fundamentación psicológica y pedagógica del currículo. Aportaciones de la Psicología y Ciencias de la Educación al diseño curricular en sus distintos niveles",
+    "pregunta": "Un centro detecta que su currículo genera barreras para parte del alumnado. ¿Qué respuesta sería más coherente con el enfoque actual?",
+    "opciones": {
+      "a": "Revisar metodología, organización, evaluación y recursos desde criterios de inclusión y DUA.",
+      "b": "Mantener la programación común para evitar diferencias entre estudiantes.",
+      "c": "Aplicar adaptaciones significativas antes de analizar barreras ordinarias.",
+      "d": "Trasladar la responsabilidad de los ajustes únicamente al departamento de orientación."
+    },
+    "correcta": "a",
+    "dificultad": "difícil",
+    "explicacion": "El currículo no debe convertirse en una barrera, por lo que deben revisarse las decisiones curriculares y metodológicas antes de adoptar medidas más restrictivas."
+  },
+  {
+    "id": 10,
+    "bloque": "Teoría Pedagógica",
+    "tema": 1,
+    "titulo_tema": "Fundamentación psicológica y pedagógica del currículo. Aportaciones de la Psicología y Ciencias de la Educación al diseño curricular en sus distintos niveles",
+    "pregunta": "¿Qué planteamiento refleja mejor una visión integrada del diseño curricular?",
+    "opciones": {
+      "a": "Diseñar contenidos primero y decidir después objetivos y evaluación de forma independiente.",
+      "b": "Separar aportaciones psicológicas y pedagógicas para evitar interferencias teóricas.",
+      "c": "Articular competencias, saberes, metodología, evaluación y contexto desde fundamentos psicopedagógicos.",
+      "d": "Aplicar el currículo básico sin concreción en el centro para asegurar homogeneidad."
+    },
+    "correcta": "c",
+    "dificultad": "difícil",
+    "explicacion": "El diseño curricular exige integrar fundamentos psicológicos, experiencia pedagógica, competencias, evaluación y adaptación al contexto educativo."
+  },
+  {
+    "id": 1,
+    "bloque": "Teoría Pedagógica",
+    "tema": 2,
+    "titulo_tema": "Las capacidades como objetivo de la educación. Sus distintos aspectos: valor intrínseco, valor propedéutico, carácter funcional en relación con la vida cotidiana",
+    "pregunta": "¿Por qué las capacidades deben considerarse objetivo central de la educación?",
+    "opciones": {
+      "a": "Porque permiten sustituir los contenidos curriculares por habilidades generales.",
+      "b": "Porque se vinculan al desarrollo integral de la personalidad del alumnado.",
+      "c": "Porque garantizan resultados idénticos al finalizar cada etapa educativa.",
+      "d": "Porque reducen la necesidad de trabajar competencias clave."
+    },
+    "correcta": "b",
+    "dificultad": "fácil",
+    "explicacion": "Ejes temáticos principales identificados: capacidades como objetivo y valor intrínseco; relación entre capacidades y competencias clave; conocimientos previos y aprendizaje significativo; valor propedéutico; funcionalidad de las capacidades en la vida cotidiana. Las capacidades forman parte del desarrollo integral y dan sentido a los objetivos educativos."
+  },
+  {
+    "id": 2,
+    "bloque": "Teoría Pedagógica",
+    "tema": 2,
+    "titulo_tema": "Las capacidades como objetivo de la educación. Sus distintos aspectos: valor intrínseco, valor propedéutico, carácter funcional en relación con la vida cotidiana",
+    "pregunta": "¿Qué significa que las capacidades tengan valor intrínseco?",
+    "opciones": {
+      "a": "Que poseen valor educativo por contribuir al desarrollo pleno de la persona.",
+      "b": "Que solo son útiles si preparan para estudios posteriores.",
+      "c": "Que deben evaluarse exclusivamente mediante pruebas finales.",
+      "d": "Que se adquieren al margen de los contenidos escolares."
+    },
+    "correcta": "a",
+    "dificultad": "fácil",
+    "explicacion": "El valor intrínseco se relaciona con la finalidad educativa de desarrollar todas las dimensiones personales del alumnado."
+  },
+  {
+    "id": 3,
+    "bloque": "Teoría Pedagógica",
+    "tema": 2,
+    "titulo_tema": "Las capacidades como objetivo de la educación. Sus distintos aspectos: valor intrínseco, valor propedéutico, carácter funcional en relación con la vida cotidiana",
+    "pregunta": "¿Qué relación existe entre capacidades y competencias clave?",
+    "opciones": {
+      "a": "Las capacidades sustituyen a las competencias cuando el currículo es abierto.",
+      "b": "Las competencias solo incluyen conocimientos conceptuales evaluables.",
+      "c": "Las competencias movilizan capacidades, saberes, destrezas y actitudes en contextos diversos.",
+      "d": "Las capacidades se desarrollan únicamente en ámbitos no formales."
+    },
+    "correcta": "c",
+    "dificultad": "fácil",
+    "explicacion": "El enfoque competencial integra saber, saber hacer y saber ser, permitiendo aplicar capacidades en situaciones reales."
+  },
+  {
+    "id": 4,
+    "bloque": "Teoría Pedagógica",
+    "tema": 2,
+    "titulo_tema": "Las capacidades como objetivo de la educación. Sus distintos aspectos: valor intrínseco, valor propedéutico, carácter funcional en relación con la vida cotidiana",
+    "pregunta": "¿Qué actuación favorece el aprendizaje significativo de nuevas capacidades?",
+    "opciones": {
+      "a": "Presentar contenidos avanzados sin explorar ideas previas.",
+      "b": "Evitar el error para que no interfiera en la comprensión.",
+      "c": "Trabajar únicamente mediante repetición literal de contenidos.",
+      "d": "Partir de conocimientos previos y promover su revisión mediante nuevas experiencias."
+    },
+    "correcta": "d",
+    "dificultad": "fácil",
+    "explicacion": "Las capacidades se desarrollan mejor cuando el alumno relaciona lo nuevo con lo que ya sabe y reestructura sus esquemas."
+  },
+  {
+    "id": 5,
+    "bloque": "Teoría Pedagógica",
+    "tema": 2,
+    "titulo_tema": "Las capacidades como objetivo de la educación. Sus distintos aspectos: valor intrínseco, valor propedéutico, carácter funcional en relación con la vida cotidiana",
+    "pregunta": "¿Qué papel cumplen los organizadores previos en el aprendizaje?",
+    "opciones": {
+      "a": "Actúan como puentes cognitivos entre lo conocido y los nuevos contenidos.",
+      "b": "Sustituyen la actividad mental del alumnado por explicaciones docentes.",
+      "c": "Sirven para evaluar la memorización literal de los conceptos.",
+      "d": "Eliminan la necesidad de motivar al alumnado hacia el objeto de estudio."
+    },
+    "correcta": "a",
+    "dificultad": "media",
+    "explicacion": "Los organizadores previos ayudan a conectar conocimientos menos elaborados con aprendizajes nuevos más complejos."
+  },
+  {
+    "id": 6,
+    "bloque": "Teoría Pedagógica",
+    "tema": 2,
+    "titulo_tema": "Las capacidades como objetivo de la educación. Sus distintos aspectos: valor intrínseco, valor propedéutico, carácter funcional en relación con la vida cotidiana",
+    "pregunta": "¿Qué caracteriza a los conocimientos previos del alumnado?",
+    "opciones": {
+      "a": "Son siempre científicamente correctos y fácilmente sustituibles.",
+      "b": "Desaparecen cuando el profesorado explica el contenido con claridad.",
+      "c": "Son construcciones personales, estables y a veces resistentes al cambio.",
+      "d": "Carecen de utilidad educativa porque suelen ser implícitos."
+    },
+    "correcta": "c",
+    "dificultad": "media",
+    "explicacion": "Los conocimientos previos orientan la interpretación de lo nuevo y pueden facilitar o bloquear el aprendizaje si no se trabajan."
+  },
+  {
+    "id": 7,
+    "bloque": "Teoría Pedagógica",
+    "tema": 2,
+    "titulo_tema": "Las capacidades como objetivo de la educación. Sus distintos aspectos: valor intrínseco, valor propedéutico, carácter funcional en relación con la vida cotidiana",
+    "pregunta": "¿Qué expresa el valor propedéutico de las capacidades?",
+    "opciones": {
+      "a": "Su utilidad para resolver únicamente situaciones cotidianas inmediatas.",
+      "b": "Su función preparatoria para continuar estudios, formarse a lo largo de la vida e incorporarse a la vida activa.",
+      "c": "Su carácter independiente respecto a la orientación académica y profesional.",
+      "d": "Su relación exclusiva con la etapa de Educación Infantil."
+    },
+    "correcta": "b",
+    "dificultad": "media",
+    "explicacion": "Las capacidades permiten afrontar etapas posteriores, tomar decisiones formativas y preparar la incorporación social y laboral."
+  },
+  {
+    "id": 8,
+    "bloque": "Teoría Pedagógica",
+    "tema": 2,
+    "titulo_tema": "Las capacidades como objetivo de la educación. Sus distintos aspectos: valor intrínseco, valor propedéutico, carácter funcional en relación con la vida cotidiana",
+    "pregunta": "¿Qué implica el carácter funcional de las capacidades?",
+    "opciones": {
+      "a": "Que solo deben trabajarse mediante tareas prácticas sin reflexión conceptual.",
+      "b": "Que se aplican únicamente dentro del aula donde se aprendieron.",
+      "c": "Que sustituyen el desarrollo de valores y actitudes personales.",
+      "d": "Que pueden transferirse y utilizarse en contextos variados de la vida cotidiana."
+    },
+    "correcta": "d",
+    "dificultad": "media",
+    "explicacion": "El aprendizaje funcional exige que lo aprendido pueda generalizarse y aplicarse a situaciones diferentes de aquellas donde se originó."
+  },
+  {
+    "id": 9,
+    "bloque": "Teoría Pedagógica",
+    "tema": 2,
+    "titulo_tema": "Las capacidades como objetivo de la educación. Sus distintos aspectos: valor intrínseco, valor propedéutico, carácter funcional en relación con la vida cotidiana",
+    "pregunta": "Un alumno memoriza procedimientos, pero no sabe aplicarlos fuera del ejercicio escolar. ¿Qué respuesta educativa sería más adecuada?",
+    "opciones": {
+      "a": "Diseñar situaciones de aprendizaje que exijan transferir saberes a problemas reales y variados.",
+      "b": "Repetir más veces los mismos ejercicios hasta automatizar completamente la respuesta.",
+      "c": "Reducir la dificultad para evitar que tenga que relacionar aprendizajes.",
+      "d": "Evaluar solo la reproducción correcta del procedimiento aprendido."
+    },
+    "correcta": "a",
+    "dificultad": "difícil",
+    "explicacion": "La funcionalidad requiere comprensión, transferencia y uso flexible de capacidades en contextos significativos."
+  },
+  {
+    "id": 10,
+    "bloque": "Teoría Pedagógica",
+    "tema": 2,
+    "titulo_tema": "Las capacidades como objetivo de la educación. Sus distintos aspectos: valor intrínseco, valor propedéutico, carácter funcional en relación con la vida cotidiana",
+    "pregunta": "¿Qué planteamiento integra mejor capacidades, competencias y vida cotidiana?",
+    "opciones": {
+      "a": "Trabajar capacidades aisladas de los saberes para evitar sobrecarga curricular.",
+      "b": "Priorizar contenidos conceptuales y dejar la aplicación para etapas posteriores.",
+      "c": "Proponer aprendizajes significativos que desarrollen autonomía, valores y transferencia a contextos reales.",
+      "d": "Organizar la enseñanza exclusivamente según pruebas externas de rendimiento."
+    },
+    "correcta": "c",
+    "dificultad": "difícil",
+    "explicacion": "Las capacidades cobran sentido cuando se conectan con competencias, conocimientos previos, valores y uso autónomo en la vida personal y social."
+  },
+  {
+    "id": 1,
+    "bloque": "Teoría Pedagógica",
+    "tema": 3,
+    "titulo_tema": "Procesos de aprendizaje: condicionamiento, aprendizaje por observación, aprendizajes superiores, el procesamiento de la información, el papel de la atención y memoria, las habilidades metacognitivas",
+    "pregunta": "¿Qué idea expresa mejor la relación entre teorías del aprendizaje y práctica educativa?",
+    "opciones": {
+      "a": "Una única teoría explica suficientemente todas las situaciones escolares.",
+      "b": "Distintas teorías aportan perspectivas complementarias sobre cómo aprende el alumnado.",
+      "c": "Las teorías conductistas han sustituido completamente a las teorías cognitivas.",
+      "d": "La práctica docente debe prescindir de modelos teóricos para adaptarse al aula."
+    },
+    "correcta": "b",
+    "dificultad": "fácil",
+    "explicacion": "Ejes temáticos principales identificados: condicionamiento clásico y operante; aprendizaje por observación; perspectiva sociocultural y aprendizajes superiores; procesamiento de la información, atención y memoria; habilidades metacognitivas y aprender a aprender. Las situaciones educativas son complejas y requieren integrar aportaciones de distintos enfoques."
+  },
+  {
+    "id": 2,
+    "bloque": "Teoría Pedagógica",
+    "tema": 3,
+    "titulo_tema": "Procesos de aprendizaje: condicionamiento, aprendizaje por observación, aprendizajes superiores, el procesamiento de la información, el papel de la atención y memoria, las habilidades metacognitivas",
+    "pregunta": "¿Qué ejemplo refleja una aplicación del condicionamiento clásico en el aula?",
+    "opciones": {
+      "a": "Prevenir ansiedad ante exámenes asociando la evaluación con experiencias graduales y seguras.",
+      "b": "Reforzar con puntos cada conducta adecuada durante una semana.",
+      "c": "Dividir una tarea compleja en pasos y retirar ayudas progresivamente.",
+      "d": "Enseñar una habilidad mediante demostración del profesor y verbalización del proceso."
+    },
+    "correcta": "a",
+    "dificultad": "fácil",
+    "explicacion": "El condicionamiento clásico explica asociaciones emocionales ante estímulos escolares, como ansiedad o satisfacción ante determinadas situaciones."
+  },
+  {
+    "id": 3,
+    "bloque": "Teoría Pedagógica",
+    "tema": 3,
+    "titulo_tema": "Procesos de aprendizaje: condicionamiento, aprendizaje por observación, aprendizajes superiores, el procesamiento de la información, el papel de la atención y memoria, las habilidades metacognitivas",
+    "pregunta": "¿Qué caracteriza al reforzamiento positivo en el condicionamiento operante?",
+    "opciones": {
+      "a": "La retirada de un estímulo aversivo tras una respuesta.",
+      "b": "La disminución de una conducta mediante una consecuencia desagradable.",
+      "c": "La presentación de una consecuencia agradable que aumenta una conducta.",
+      "d": "La desaparición de una conducta por falta de consecuencias."
+    },
+    "correcta": "c",
+    "dificultad": "fácil",
+    "explicacion": "El reforzamiento positivo aumenta la probabilidad de una conducta al aportar una consecuencia gratificante después de emitirla."
+  },
+  {
+    "id": 4,
+    "bloque": "Teoría Pedagógica",
+    "tema": 3,
+    "titulo_tema": "Procesos de aprendizaje: condicionamiento, aprendizaje por observación, aprendizajes superiores, el procesamiento de la información, el papel de la atención y memoria, las habilidades metacognitivas",
+    "pregunta": "¿Qué rasgo define mejor el aprendizaje por observación según Bandura?",
+    "opciones": {
+      "a": "El aprendizaje se produce solo por ensayo y error directo.",
+      "b": "La conducta depende únicamente de sus consecuencias inmediatas.",
+      "c": "El alumnado aprende exclusivamente por instrucción verbal del profesor.",
+      "d": "La persona aprende observando modelos conductuales, verbales o simbólicos."
+    },
+    "correcta": "d",
+    "dificultad": "fácil",
+    "explicacion": "El modelado permite adquirir conductas y estrategias observando a modelos relevantes, especialmente cuando se combina con verbalización."
+  },
+  {
+    "id": 5,
+    "bloque": "Teoría Pedagógica",
+    "tema": 3,
+    "titulo_tema": "Procesos de aprendizaje: condicionamiento, aprendizaje por observación, aprendizajes superiores, el procesamiento de la información, el papel de la atención y memoria, las habilidades metacognitivas",
+    "pregunta": "¿Qué intervención refleja mejor la Zona de Desarrollo Próximo de Vygotski?",
+    "opciones": {
+      "a": "Proponer tareas que el alumno puede resolver con ayuda ajustada de un adulto o igual más competente.",
+      "b": "Repetir únicamente actividades ya dominadas para consolidar seguridad.",
+      "c": "Evitar la cooperación para medir con precisión el rendimiento individual.",
+      "d": "Presentar contenidos abstractos sin mediación para estimular maduración espontánea."
+    },
+    "correcta": "a",
+    "dificultad": "media",
+    "explicacion": "La ZDP orienta la enseñanza hacia aprendizajes posibles con mediación, favoreciendo el paso hacia la autonomía."
+  },
+  {
+    "id": 6,
+    "bloque": "Teoría Pedagógica",
+    "tema": 3,
+    "titulo_tema": "Procesos de aprendizaje: condicionamiento, aprendizaje por observación, aprendizajes superiores, el procesamiento de la información, el papel de la atención y memoria, las habilidades metacognitivas",
+    "pregunta": "¿Qué función cumplen los esquemas en el procesamiento de la información?",
+    "opciones": {
+      "a": "Almacenan copias exactas de la realidad percibida por el alumnado.",
+      "b": "Sustituyen la atención selectiva por memoria automática.",
+      "c": "Organizan e interpretan la información nueva a partir del conocimiento previo.",
+      "d": "Impiden modificar el conocimiento una vez consolidado en la memoria."
+    },
+    "correcta": "c",
+    "dificultad": "media",
+    "explicacion": "Los esquemas guían la codificación, comprensión y recuperación de la información, conectando lo nuevo con la experiencia previa."
+  },
+  {
+    "id": 7,
+    "bloque": "Teoría Pedagógica",
+    "tema": 3,
+    "titulo_tema": "Procesos de aprendizaje: condicionamiento, aprendizaje por observación, aprendizajes superiores, el procesamiento de la información, el papel de la atención y memoria, las habilidades metacognitivas",
+    "pregunta": "¿Qué tipo de atención se requiere cuando el alumnado debe mantener la concentración durante una explicación prolongada?",
+    "opciones": {
+      "a": "Atención dividida.",
+      "b": "Atención sostenida.",
+      "c": "Atención selectiva momentánea.",
+      "d": "Atención refleja incondicionada."
+    },
+    "correcta": "b",
+    "dificultad": "media",
+    "explicacion": "La atención sostenida permite mantener el foco durante periodos prolongados y resulta clave para el rendimiento escolar."
+  },
+  {
+    "id": 8,
+    "bloque": "Teoría Pedagógica",
+    "tema": 3,
+    "titulo_tema": "Procesos de aprendizaje: condicionamiento, aprendizaje por observación, aprendizajes superiores, el procesamiento de la información, el papel de la atención y memoria, las habilidades metacognitivas",
+    "pregunta": "¿Qué actuación favorece el paso de información a la memoria a largo plazo?",
+    "opciones": {
+      "a": "Presentar gran cantidad de datos sin organización para aumentar exposición.",
+      "b": "Evitar relacionar lo nuevo con aprendizajes anteriores para no confundir.",
+      "c": "Exigir recuerdo literal inmediato sin elaborar significado.",
+      "d": "Agrupar, organizar y relacionar la información con conocimientos previos."
+    },
+    "correcta": "d",
+    "dificultad": "media",
+    "explicacion": "La organización significativa facilita la codificación y recuperación posterior de la información almacenada."
+  },
+  {
+    "id": 9,
+    "bloque": "Teoría Pedagógica",
+    "tema": 3,
+    "titulo_tema": "Procesos de aprendizaje: condicionamiento, aprendizaje por observación, aprendizajes superiores, el procesamiento de la información, el papel de la atención y memoria, las habilidades metacognitivas",
+    "pregunta": "Un alumno no revisa si entiende una tarea y repite siempre la misma estrategia aunque no funcione. ¿Qué habilidad necesita desarrollar?",
+    "opciones": {
+      "a": "Discriminación de estímulos condicionados en situaciones escolares.",
+      "b": "Refuerzo negativo para aumentar la persistencia en la tarea.",
+      "c": "Metacognición para planificar, supervisar y evaluar su aprendizaje.",
+      "d": "Habituación ante tareas repetidas de baja dificultad."
+    },
+    "correcta": "c",
+    "dificultad": "difícil",
+    "explicacion": "La metacognición permite tomar conciencia de las propias estrategias, regularlas y ajustarlas según los resultados obtenidos."
+  },
+  {
+    "id": 10,
+    "bloque": "Teoría Pedagógica",
+    "tema": 3,
+    "titulo_tema": "Procesos de aprendizaje: condicionamiento, aprendizaje por observación, aprendizajes superiores, el procesamiento de la información, el papel de la atención y memoria, las habilidades metacognitivas",
+    "pregunta": "¿Qué planteamiento integra mejor los distintos procesos de aprendizaje en el aula?",
+    "opciones": {
+      "a": "Combinar modelado, ayuda ajustada, organización significativa, motivación y autorregulación del alumnado.",
+      "b": "Aplicar solo reforzadores externos para controlar la conducta y asegurar aprendizaje.",
+      "c": "Priorizar la memoria literal porque sostiene cualquier aprendizaje superior.",
+      "d": "Separar atención, memoria y metacognición para trabajarlas como procesos independientes."
+    },
+    "correcta": "a",
+    "dificultad": "difícil",
+    "explicacion": "Una intervención completa integra dimensiones conductuales, sociales, cognitivas y metacognitivas para favorecer aprendizajes significativos y autónomos."
+  },
+  {
+    "id": 1,
+    "bloque": "Teoría Pedagógica",
+    "tema": 4,
+    "titulo_tema": "El proceso de enseñanza y aprendizaje como proceso de construcción e interacción: elementos interpersonales y didácticos. El papel mediador del profesor",
+    "pregunta": "¿Qué idea expresa mejor el proceso de enseñanza-aprendizaje desde una perspectiva constructivista e interactiva?",
+    "opciones": {
+      "a": "El conocimiento se transmite de forma directa desde el profesorado al alumnado.",
+      "b": "El conocimiento se construye mediante la interacción entre alumnado, profesorado y contenidos.",
+      "c": "El aprendizaje depende principalmente de la maduración individual del alumno.",
+      "d": "La interacción entre iguales es secundaria frente a la explicación docente."
+    },
+    "correcta": "b",
+    "dificultad": "fácil",
+    "explicacion": "Ejes temáticos principales identificados: construcción del conocimiento y aprendizaje significativo; interacción social y Zona de Desarrollo Próximo; elementos interpersonales y didácticos; papel mediador del profesorado; competencias clave y aprendizaje cooperativo. El aprendizaje se entiende como construcción compartida en un contexto de interacción y comunicación."
+  },
+  {
+    "id": 2,
+    "bloque": "Teoría Pedagógica",
+    "tema": 4,
+    "titulo_tema": "El proceso de enseñanza y aprendizaje como proceso de construcción e interacción: elementos interpersonales y didácticos. El papel mediador del profesor",
+    "pregunta": "Según Ausubel, ¿qué condición favorece que un aprendizaje sea significativo?",
+    "opciones": {
+      "a": "Relacionar la nueva información con conocimientos previos de forma clara y organizada.",
+      "b": "Memorizar primero los contenidos antes de aplicarlos a situaciones reales.",
+      "c": "Evitar contradicciones con las ideas previas para no generar confusión.",
+      "d": "Presentar los contenidos sin intervención mediadora del profesorado."
+    },
+    "correcta": "a",
+    "dificultad": "fácil",
+    "explicacion": "El aprendizaje significativo exige que el nuevo contenido sea comprensible y pueda integrarse en la estructura cognitiva previa del alumno."
+  },
+  {
+    "id": 3,
+    "bloque": "Teoría Pedagógica",
+    "tema": 4,
+    "titulo_tema": "El proceso de enseñanza y aprendizaje como proceso de construcción e interacción: elementos interpersonales y didácticos. El papel mediador del profesor",
+    "pregunta": "¿Qué implica intervenir en la Zona de Desarrollo Próximo del alumnado?",
+    "opciones": {
+      "a": "Proponer únicamente tareas que el alumno ya domina sin ayuda.",
+      "b": "Retrasar la enseñanza hasta que el desarrollo madurativo esté completo.",
+      "c": "Ofrecer ayudas ajustadas para que el alumno avance más allá de lo que logra solo.",
+      "d": "Sustituir la actividad del alumno por explicaciones detalladas del docente."
+    },
+    "correcta": "c",
+    "dificultad": "fácil",
+    "explicacion": "La Zona de Desarrollo Próximo permite orientar la enseñanza hacia aprendizajes posibles con mediación de adultos o iguales más competentes."
+  },
+  {
+    "id": 4,
+    "bloque": "Teoría Pedagógica",
+    "tema": 4,
+    "titulo_tema": "El proceso de enseñanza y aprendizaje como proceso de construcción e interacción: elementos interpersonales y didácticos. El papel mediador del profesor",
+    "pregunta": "¿Qué tipo de interacción entre iguales favorece mejor la construcción compartida del conocimiento?",
+    "opciones": {
+      "a": "Competición continua para aumentar el esfuerzo individual.",
+      "b": "Agrupamiento estable por nivel de rendimiento académico.",
+      "c": "Trabajo individual paralelo con mínima comunicación entre compañeros.",
+      "d": "Aprendizaje cooperativo con ayuda mutua, objetivos compartidos y participación."
+    },
+    "correcta": "d",
+    "dificultad": "fácil",
+    "explicacion": "La cooperación entre iguales favorece socialización, rendimiento, conflicto sociocognitivo y construcción colectiva de significados."
+  },
+  {
+    "id": 5,
+    "bloque": "Teoría Pedagógica",
+    "tema": 4,
+    "titulo_tema": "El proceso de enseñanza y aprendizaje como proceso de construcción e interacción: elementos interpersonales y didácticos. El papel mediador del profesor",
+    "pregunta": "¿Qué actuación refleja al profesorado como diseñador de procesos de enseñanza-aprendizaje?",
+    "opciones": {
+      "a": "Planificar actividades, tiempos, espacios, metodología, materiales y evaluación.",
+      "b": "Limitarse a explicar contenidos y comprobar resultados al final de la unidad.",
+      "c": "Delegar las decisiones metodológicas en los materiales curriculares utilizados.",
+      "d": "Mantener la misma organización aunque no responda al grupo-aula."
+    },
+    "correcta": "a",
+    "dificultad": "media",
+    "explicacion": "El docente diseña y organiza los elementos que intervienen en la enseñanza, evaluando el proceso para introducir mejoras."
+  },
+  {
+    "id": 6,
+    "bloque": "Teoría Pedagógica",
+    "tema": 4,
+    "titulo_tema": "El proceso de enseñanza y aprendizaje como proceso de construcción e interacción: elementos interpersonales y didácticos. El papel mediador del profesor",
+    "pregunta": "¿Qué característica define mejor el aprendizaje mediado según una intervención docente inclusiva?",
+    "opciones": {
+      "a": "La eliminación de ayudas para comprobar el nivel real de autonomía.",
+      "b": "La repetición de tareas idénticas hasta lograr respuestas automáticas.",
+      "c": "La ayuda intencional, significativa y próxima a las posibilidades del alumno.",
+      "d": "La aplicación uniforme de la misma tarea a todo el grupo-clase."
+    },
+    "correcta": "c",
+    "dificultad": "media",
+    "explicacion": "El aprendizaje mediado exige intencionalidad, significatividad, funcionalidad y ajuste a la singularidad del alumnado."
+  },
+  {
+    "id": 7,
+    "bloque": "Teoría Pedagógica",
+    "tema": 4,
+    "titulo_tema": "El proceso de enseñanza y aprendizaje como proceso de construcción e interacción: elementos interpersonales y didácticos. El papel mediador del profesor",
+    "pregunta": "¿Qué elemento curricular se ajusta mejor a una enseñanza competencial y contextualizada?",
+    "opciones": {
+      "a": "Una lista cerrada de contenidos para memorizar al final del trimestre.",
+      "b": "Un examen común centrado en comprobar reproducción literal.",
+      "c": "Una programación desvinculada de intereses y necesidades del alumnado.",
+      "d": "Situaciones de aprendizaje que movilizan competencias en actividades significativas."
+    },
+    "correcta": "d",
+    "dificultad": "media",
+    "explicacion": "Las situaciones de aprendizaje permiten integrar saberes, competencias y actuaciones del alumnado en contextos relevantes."
+  },
+  {
+    "id": 8,
+    "bloque": "Teoría Pedagógica",
+    "tema": 4,
+    "titulo_tema": "El proceso de enseñanza y aprendizaje como proceso de construcción e interacción: elementos interpersonales y didácticos. El papel mediador del profesor",
+    "pregunta": "¿Qué principio debe orientar las medidas organizativas, metodológicas y curriculares actuales?",
+    "opciones": {
+      "a": "La homogeneización de tareas para asegurar igualdad formal.",
+      "b": "El Diseño Universal para el Aprendizaje como prevención de barreras.",
+      "c": "La adaptación individual solo después del fracaso escolar reiterado.",
+      "d": "La selección de contenidos al margen de la diversidad del aula."
+    },
+    "correcta": "b",
+    "dificultad": "media",
+    "explicacion": "El DUA orienta la planificación para ofrecer distintas formas de acceso, participación y expresión desde el inicio."
+  },
+  {
+    "id": 9,
+    "bloque": "Teoría Pedagógica",
+    "tema": 4,
+    "titulo_tema": "El proceso de enseñanza y aprendizaje como proceso de construcción e interacción: elementos interpersonales y didácticos. El papel mediador del profesor",
+    "pregunta": "Un alumno no comprende una tarea porque interpreta de forma distinta la consigna y no sabe pedir ayuda. ¿Qué intervención sería más adecuada?",
+    "opciones": {
+      "a": "Compartir el significado de la tarea, ajustar la ayuda y usar el lenguaje como mediación.",
+      "b": "Repetir la explicación completa sin modificar apoyos ni comprobar comprensión.",
+      "c": "Retirar la ayuda para que el alumno desarrolle autonomía por ensayo y error.",
+      "d": "Cambiar la actividad por otra más sencilla sin analizar la dificultad real."
+    },
+    "correcta": "a",
+    "dificultad": "difícil",
+    "explicacion": "La ayuda eficaz requiere detectar la dificultad, compartir la definición de la situación y mediar mediante lenguaje y apoyos ajustados."
+  },
+  {
+    "id": 10,
+    "bloque": "Teoría Pedagógica",
+    "tema": 4,
+    "titulo_tema": "El proceso de enseñanza y aprendizaje como proceso de construcción e interacción: elementos interpersonales y didácticos. El papel mediador del profesor",
+    "pregunta": "¿Qué planteamiento expresa mejor el papel mediador del profesorado?",
+    "opciones": {
+      "a": "Transmitir contenidos de forma ordenada y exigir reproducción correcta.",
+      "b": "Mantener la autoridad docente reduciendo la interacción entre iguales.",
+      "c": "Priorizar materiales digitales para sustituir la ayuda pedagógica directa.",
+      "d": "Facilitar la construcción de significados, la autonomía y la transferencia del aprendizaje."
+    },
+    "correcta": "d",
+    "dificultad": "difícil",
+    "explicacion": "El profesorado media entre contenidos y alumnado para que el aprendizaje sea significativo, funcional y progresivamente autónomo."
+  },
+  {
+    "id": 1,
+    "bloque": "Teoría Pedagógica",
+    "tema": 5,
+    "titulo_tema": "Principios didácticos en el proceso de enseñanza y aprendizaje. Aprendizaje significativo. El papel de las capacidades y conocimientos previos. La personalización de los procesos de enseñanza-aprendizaje",
+    "pregunta": "¿Qué finalidad tienen los principios didácticos en el proceso de enseñanza-aprendizaje?",
+    "opciones": {
+      "a": "Establecer procedimientos uniformes que todos los docentes deben aplicar igual.",
+      "b": "Sustituir la planificación curricular por decisiones espontáneas de aula.",
+      "c": "Orientar la práctica docente para favorecer aprendizajes significativos y ajustados al alumnado.",
+      "d": "Separar la metodología de las características cognitivas, afectivas y sociales del grupo."
+    },
+    "correcta": "c",
+    "dificultad": "fácil",
+    "explicacion": "Ejes temáticos principales identificados: principios didácticos constructivistas; aprendizaje significativo y funcional; capacidades y competencias clave; conocimientos previos; personalización, atención a la diversidad y DUA. Los principios didácticos orientan la intervención docente desde una concepción constructivista y personalizada del aprendizaje."
+  },
+  {
+    "id": 2,
+    "bloque": "Teoría Pedagógica",
+    "tema": 5,
+    "titulo_tema": "Principios didácticos en el proceso de enseñanza y aprendizaje. Aprendizaje significativo. El papel de las capacidades y conocimientos previos. La personalización de los procesos de enseñanza-aprendizaje",
+    "pregunta": "¿Qué condición debe reunir el material para favorecer aprendizaje significativo?",
+    "opciones": {
+      "a": "Ser claro, coherente y relacionable con la estructura cognitiva previa del alumno.",
+      "b": "Presentar muchos datos nuevos para ampliar rápidamente el conocimiento.",
+      "c": "Exigir memorización literal antes de cualquier aplicación práctica.",
+      "d": "Evitar vínculos con experiencias previas para asegurar objetividad."
+    },
+    "correcta": "a",
+    "dificultad": "fácil",
+    "explicacion": "El material significativo permite establecer relaciones no arbitrarias entre lo nuevo y lo que el alumnado ya sabe."
+  },
+  {
+    "id": 3,
+    "bloque": "Teoría Pedagógica",
+    "tema": 5,
+    "titulo_tema": "Principios didácticos en el proceso de enseñanza y aprendizaje. Aprendizaje significativo. El papel de las capacidades y conocimientos previos. La personalización de los procesos de enseñanza-aprendizaje",
+    "pregunta": "¿Por qué es importante partir de los conocimientos previos del alumnado?",
+    "opciones": {
+      "a": "Porque sustituyen la necesidad de explicar contenidos nuevos.",
+      "b": "Porque condicionan la comprensión y la integración de nuevos aprendizajes.",
+      "c": "Porque siempre coinciden con el conocimiento científico escolar.",
+      "d": "Porque permiten evaluar sin necesidad de observar el proceso."
+    },
+    "correcta": "b",
+    "dificultad": "fácil",
+    "explicacion": "Los conocimientos previos actúan como base para atribuir significado a la nueva información y reorganizar esquemas."
+  },
+  {
+    "id": 4,
+    "bloque": "Teoría Pedagógica",
+    "tema": 5,
+    "titulo_tema": "Principios didácticos en el proceso de enseñanza y aprendizaje. Aprendizaje significativo. El papel de las capacidades y conocimientos previos. La personalización de los procesos de enseñanza-aprendizaje",
+    "pregunta": "¿Qué actuación se ajusta mejor a la personalización del aprendizaje?",
+    "opciones": {
+      "a": "Aplicar la misma actividad y ritmo a todo el alumnado para asegurar igualdad.",
+      "b": "Reservar los apoyos solo a quienes tienen diagnóstico formal.",
+      "c": "Reducir objetivos antes de revisar barreras metodológicas del aula.",
+      "d": "Ajustar métodos, recursos y apoyos a características, intereses y necesidades del alumnado."
+    },
+    "correcta": "d",
+    "dificultad": "fácil",
+    "explicacion": "Personalizar implica adaptar la enseñanza a la diversidad real del aula, manteniendo expectativas y participación."
+  },
+  {
+    "id": 5,
+    "bloque": "Teoría Pedagógica",
+    "tema": 5,
+    "titulo_tema": "Principios didácticos en el proceso de enseñanza y aprendizaje. Aprendizaje significativo. El papel de las capacidades y conocimientos previos. La personalización de los procesos de enseñanza-aprendizaje",
+    "pregunta": "¿Qué caracteriza al aprendizaje funcional?",
+    "opciones": {
+      "a": "La reproducción exacta de contenidos en el mismo contexto donde se aprendieron.",
+      "b": "La acumulación de conocimientos sin necesidad de aplicación posterior.",
+      "c": "La posibilidad de transferir lo aprendido a situaciones distintas y cotidianas.",
+      "d": "La prioridad de tareas prácticas sin comprensión conceptual."
+    },
+    "correcta": "c",
+    "dificultad": "media",
+    "explicacion": "El aprendizaje funcional permite generalizar capacidades, actitudes y valores a contextos diferentes de la vida escolar y cotidiana."
+  },
+  {
+    "id": 6,
+    "bloque": "Teoría Pedagógica",
+    "tema": 5,
+    "titulo_tema": "Principios didácticos en el proceso de enseñanza y aprendizaje. Aprendizaje significativo. El papel de las capacidades y conocimientos previos. La personalización de los procesos de enseñanza-aprendizaje",
+    "pregunta": "¿Qué relación existe entre capacidades y competencias clave?",
+    "opciones": {
+      "a": "Las competencias sustituyen a las capacidades cuando se evalúan saberes básicos.",
+      "b": "Las competencias movilizan capacidades, conocimientos, destrezas, actitudes y valores.",
+      "c": "Las capacidades se reducen a aptitudes intelectuales medibles con pruebas objetivas.",
+      "d": "Las competencias solo se desarrollan en actividades complementarias."
+    },
+    "correcta": "b",
+    "dificultad": "media",
+    "explicacion": "El enfoque competencial integra saber, saber hacer y saber ser para actuar eficazmente en contextos variados."
+  },
+  {
+    "id": 7,
+    "bloque": "Teoría Pedagógica",
+    "tema": 5,
+    "titulo_tema": "Principios didácticos en el proceso de enseñanza y aprendizaje. Aprendizaje significativo. El papel de las capacidades y conocimientos previos. La personalización de los procesos de enseñanza-aprendizaje",
+    "pregunta": "¿Qué clima de aula facilita que el alumnado atribuya sentido a aprender?",
+    "opciones": {
+      "a": "Un clima de confianza, aceptación y respeto que le haga sentirse capaz de afrontar retos.",
+      "b": "Un clima competitivo que compare resultados para aumentar exigencia académica.",
+      "c": "Un clima centrado en la corrección inmediata de errores ante el grupo.",
+      "d": "Un clima distante para evitar dependencia afectiva hacia el profesorado."
+    },
+    "correcta": "a",
+    "dificultad": "media",
+    "explicacion": "El sentido del aprendizaje se favorece cuando el alumnado comprende la tarea, se siente competente y encuentra interés en abordarla."
+  },
+  {
+    "id": 8,
+    "bloque": "Teoría Pedagógica",
+    "tema": 5,
+    "titulo_tema": "Principios didácticos en el proceso de enseñanza y aprendizaje. Aprendizaje significativo. El papel de las capacidades y conocimientos previos. La personalización de los procesos de enseñanza-aprendizaje",
+    "pregunta": "¿Qué rasgo tienen frecuentemente las ideas previas del alumnado?",
+    "opciones": {
+      "a": "Son fácilmente visibles y desaparecen tras una explicación correcta.",
+      "b": "Carecen de coherencia desde el punto de vista del propio alumno.",
+      "c": "Se sustituyen mejor mediante repetición literal de definiciones.",
+      "d": "Pueden ser estables, implícitas y resistentes al cambio conceptual."
+    },
+    "correcta": "d",
+    "dificultad": "media",
+    "explicacion": "Las ideas previas pueden tener coherencia interna para el alumnado y requieren actividades que generen revisión y reestructuración."
+  },
+  {
+    "id": 9,
+    "bloque": "Teoría Pedagógica",
+    "tema": 5,
+    "titulo_tema": "Principios didácticos en el proceso de enseñanza y aprendizaje. Aprendizaje significativo. El papel de las capacidades y conocimientos previos. La personalización de los procesos de enseñanza-aprendizaje",
+    "pregunta": "Un alumno resuelve ejercicios en clase, pero no aplica lo aprendido en situaciones nuevas. ¿Qué intervención sería más adecuada?",
+    "opciones": {
+      "a": "Aumentar el número de ejercicios iguales hasta automatizar la respuesta.",
+      "b": "Evaluar solo la exactitud de las respuestas en tareas conocidas.",
+      "c": "Diseñar tareas contextualizadas que exijan transferencia, reflexión y uso estratégico.",
+      "d": "Reducir la dificultad para evitar que tenga que relacionar aprendizajes."
+    },
+    "correcta": "c",
+    "dificultad": "difícil",
+    "explicacion": "La transferencia requiere tareas significativas que permitan aplicar conocimientos, estrategias y capacidades en contextos distintos."
+  },
+  {
+    "id": 10,
+    "bloque": "Teoría Pedagógica",
+    "tema": 5,
+    "titulo_tema": "Principios didácticos en el proceso de enseñanza y aprendizaje. Aprendizaje significativo. El papel de las capacidades y conocimientos previos. La personalización de los procesos de enseñanza-aprendizaje",
+    "pregunta": "¿Qué planteamiento refleja mejor una enseñanza personalizada y significativa?",
+    "opciones": {
+      "a": "Organizar la enseñanza solo por contenidos, dejando la diversidad para medidas posteriores.",
+      "b": "Combinar conocimientos previos, retos ajustados, DUA, ayuda pedagógica y evaluación continua.",
+      "c": "Sustituir la programación por intereses espontáneos del alumnado.",
+      "d": "Aplicar apoyos individuales fuera del aula como vía principal de personalización."
+    },
+    "correcta": "b",
+    "dificultad": "difícil",
+    "explicacion": "La personalización eficaz integra planificación, apoyo ajustado, prevención de barreras y seguimiento continuo del aprendizaje."
+  },
+  {
+    "id": 1,
+    "bloque": "Teoría Pedagógica",
+    "tema": 20,
+    "titulo_tema": "Aspectos de la diversidad de condiciones personales de los alumnos relevantes para la educación y el aprendizaje: aptitudes, motivación, estilos cognitivos, otras diferencias individuales",
+    "pregunta": "¿Qué principio debe guiar la respuesta educativa ante la diversidad de condiciones personales del alumnado?",
+    "opciones": {
+      "a": "Comparar al alumnado con un grupo normativo para decidir su rendimiento.",
+      "b": "Diseñar una enseñanza flexible que considere aptitudes, motivación, estilos y necesidades.",
+      "c": "Separar al alumnado según sus capacidades para homogeneizar la intervención.",
+      "d": "Priorizar contenidos comunes sin modificar métodos ni recursos."
+    },
+    "correcta": "b",
+    "dificultad": "fácil",
+    "explicacion": "Ejes temáticos principales identificados: aptitudes y modelos explicativos; estilos cognitivos y su influencia educativa; motivación y teorías motivacionales; atención inclusiva a la diversidad; diferencias sociales y afectivo-emocionales. La diversidad no es un añadido, sino la vía para hacer posible una enseñanza ajustada e inclusiva."
+  },
+  {
+    "id": 2,
+    "bloque": "Teoría Pedagógica",
+    "tema": 20,
+    "titulo_tema": "Aspectos de la diversidad de condiciones personales de los alumnos relevantes para la educación y el aprendizaje: aptitudes, motivación, estilos cognitivos, otras diferencias individuales",
+    "pregunta": "¿Qué definición se ajusta mejor al concepto educativo de aptitud?",
+    "opciones": {
+      "a": "Una capacidad fija determinada únicamente por la herencia biológica.",
+      "b": "Una medida psicométrica estable que predice todo rendimiento escolar.",
+      "c": "Una capacidad natural o adquirida, dinámica y entrenable para desempeñar tareas.",
+      "d": "Una preferencia metodológica independiente de la personalidad y la motivación."
+    },
+    "correcta": "c",
+    "dificultad": "fácil",
+    "explicacion": "Las aptitudes son capacidades complejas y modificables, influidas por factores personales y ambientales."
+  },
+  {
+    "id": 3,
+    "bloque": "Teoría Pedagógica",
+    "tema": 20,
+    "titulo_tema": "Aspectos de la diversidad de condiciones personales de los alumnos relevantes para la educación y el aprendizaje: aptitudes, motivación, estilos cognitivos, otras diferencias individuales",
+    "pregunta": "¿Qué aportan los modelos de procesamiento de la información a la comprensión de las aptitudes?",
+    "opciones": {
+      "a": "Consideran la inteligencia dinámica, modificable y susceptible de entrenamiento.",
+      "b": "Reducen la inteligencia a la comparación del alumno con un grupo normativo.",
+      "c": "Explican el rendimiento solo desde la maduración evolutiva del sujeto.",
+      "d": "Eliminan la necesidad de analizar tareas y estrategias cognitivas."
+    },
+    "correcta": "a",
+    "dificultad": "fácil",
+    "explicacion": "Estos modelos analizan procesos, subhabilidades y ayudas necesarias para mejorar el aprendizaje."
+  },
+  {
+    "id": 4,
+    "bloque": "Teoría Pedagógica",
+    "tema": 20,
+    "titulo_tema": "Aspectos de la diversidad de condiciones personales de los alumnos relevantes para la educación y el aprendizaje: aptitudes, motivación, estilos cognitivos, otras diferencias individuales",
+    "pregunta": "¿Qué son los estilos cognitivos en el ámbito educativo?",
+    "opciones": {
+      "a": "Rasgos de personalidad que no pueden modificarse mediante enseñanza.",
+      "b": "Niveles de inteligencia general medidos con pruebas estandarizadas.",
+      "c": "Hábitos de estudio vinculados solo a la motivación extrínseca.",
+      "d": "Formas preferentes de percibir, procesar y representar la información."
+    },
+    "correcta": "d",
+    "dificultad": "fácil",
+    "explicacion": "Los estilos cognitivos influyen en cómo el alumnado aprende y pueden ser atendidos mediante estrategias pedagógicas variadas."
+  },
+  {
+    "id": 5,
+    "bloque": "Teoría Pedagógica",
+    "tema": 20,
+    "titulo_tema": "Aspectos de la diversidad de condiciones personales de los alumnos relevantes para la educación y el aprendizaje: aptitudes, motivación, estilos cognitivos, otras diferencias individuales",
+    "pregunta": "¿Qué diferencia mejor a un alumno reflexivo de uno impulsivo ante una tarea?",
+    "opciones": {
+      "a": "El reflexivo responde rápido con más errores y el impulsivo analiza más alternativas.",
+      "b": "El reflexivo analiza opciones antes de responder y el impulsivo responde con mayor rapidez.",
+      "c": "El reflexivo depende del contexto social y el impulsivo busca información interna.",
+      "d": "El reflexivo procesa globalmente y el impulsivo organiza la información por partes."
+    },
+    "correcta": "b",
+    "dificultad": "media",
+    "explicacion": "La dimensión reflexividad-impulsividad se refiere al grado de análisis previo y a la rapidez o precisión de la respuesta."
+  },
+  {
+    "id": 6,
+    "bloque": "Teoría Pedagógica",
+    "tema": 20,
+    "titulo_tema": "Aspectos de la diversidad de condiciones personales de los alumnos relevantes para la educación y el aprendizaje: aptitudes, motivación, estilos cognitivos, otras diferencias individuales",
+    "pregunta": "¿Qué implicación educativa se deriva de la teoría motivacional de Maslow?",
+    "opciones": {
+      "a": "Asegurar necesidades básicas, seguridad, aceptación y reconocimiento para favorecer el aprendizaje.",
+      "b": "Atribuir siempre el fracaso a falta de esfuerzo para aumentar responsabilidad.",
+      "c": "Priorizar premios externos para compensar cualquier carencia motivacional.",
+      "d": "Evitar relaciones afectivas en el aula para mantener objetividad educativa."
+    },
+    "correcta": "a",
+    "dificultad": "media",
+    "explicacion": "La motivación se ve afectada por necesidades fisiológicas, psicológicas, sociales y de reconocimiento que condicionan la disposición a aprender."
+  },
+  {
+    "id": 7,
+    "bloque": "Teoría Pedagógica",
+    "tema": 20,
+    "titulo_tema": "Aspectos de la diversidad de condiciones personales de los alumnos relevantes para la educación y el aprendizaje: aptitudes, motivación, estilos cognitivos, otras diferencias individuales",
+    "pregunta": "Según la teoría de la atribución, ¿qué explicación favorece mejor la motivación tras un fracaso escolar?",
+    "opciones": {
+      "a": "Atribuirlo a la falta estable de capacidad intelectual.",
+      "b": "Atribuirlo a la suerte o a la facilidad de la tarea.",
+      "c": "Atribuirlo al esfuerzo y a estrategias modificables y controlables.",
+      "d": "Atribuirlo a factores externos que el alumno no puede cambiar."
+    },
+    "correcta": "c",
+    "dificultad": "media",
+    "explicacion": "Las atribuciones internas, inestables y controlables favorecen expectativas de mejora y persistencia ante la dificultad."
+  },
+  {
+    "id": 8,
+    "bloque": "Teoría Pedagógica",
+    "tema": 20,
+    "titulo_tema": "Aspectos de la diversidad de condiciones personales de los alumnos relevantes para la educación y el aprendizaje: aptitudes, motivación, estilos cognitivos, otras diferencias individuales",
+    "pregunta": "¿Qué actuación responde mejor a la diversidad de estilos cognitivos en el aula?",
+    "opciones": {
+      "a": "Mantener una metodología expositiva única para evitar desigualdades.",
+      "b": "Aplicar pruebas estandarizadas sin modificar la intervención docente.",
+      "c": "Agrupar siempre al alumnado con estilos similares para reducir conflictos.",
+      "d": "Diversificar métodos, recursos y agrupamientos, combinando aprendizaje cooperativo y proyectos."
+    },
+    "correcta": "d",
+    "dificultad": "media",
+    "explicacion": "La diversidad metodológica permite ajustar la enseñanza y aprovechar estilos distintos como recurso de aprendizaje."
+  },
+  {
+    "id": 9,
+    "bloque": "Teoría Pedagógica",
+    "tema": 20,
+    "titulo_tema": "Aspectos de la diversidad de condiciones personales de los alumnos relevantes para la educación y el aprendizaje: aptitudes, motivación, estilos cognitivos, otras diferencias individuales",
+    "pregunta": "Un alumno abandona tareas nuevas tras experiencias repetidas de fracaso y no sabe cómo mejorar. ¿Qué intervención sería más adecuada?",
+    "opciones": {
+      "a": "Enseñarle estrategias cognitivas, solución de problemas y atribuciones orientadas al esfuerzo.",
+      "b": "Reducir todas las tareas exigentes para evitar nuevas experiencias de fracaso.",
+      "c": "Reforzar solo con premios externos sin revisar sus estrategias de aprendizaje.",
+      "d": "Explicarle que su capacidad es estable para ajustar expectativas realistas."
+    },
+    "correcta": "a",
+    "dificultad": "difícil",
+    "explicacion": "La desmotivación puede relacionarse con no saber aplicar medios adecuados para alcanzar metas, por lo que conviene enseñar estrategias y control personal."
+  },
+  {
+    "id": 10,
+    "bloque": "Teoría Pedagógica",
+    "tema": 20,
+    "titulo_tema": "Aspectos de la diversidad de condiciones personales de los alumnos relevantes para la educación y el aprendizaje: aptitudes, motivación, estilos cognitivos, otras diferencias individuales",
+    "pregunta": "¿Qué planteamiento refleja mejor una atención inclusiva a las diferencias individuales?",
+    "opciones": {
+      "a": "Aplicar medidas idénticas a todo el grupo para no destacar diferencias personales.",
+      "b": "Centrar la respuesta solo en aptitudes intelectuales y rendimiento académico.",
+      "c": "Ajustar enseñanza, clima emocional, expectativas, motivación y metodología a la diversidad real.",
+      "d": "Derivar las diferencias personales a orientación sin modificar la práctica ordinaria."
+    },
+    "correcta": "c",
+    "dificultad": "difícil",
+    "explicacion": "La inclusión exige considerar variables cognitivas, motivacionales, sociales y afectivas para ofrecer ayudas ajustadas y equitativas."
   }
 ]
